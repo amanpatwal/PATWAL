@@ -1,0 +1,15 @@
+
+.myimg{
+    border: 1px solid burlywood;
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: aquamarine;
+}
+#cv-template{
+    display: none;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
